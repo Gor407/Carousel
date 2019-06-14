@@ -1,0 +1,37 @@
+#title{
+text-align:center;
+font-size:45px;
+color:red;
+}
+
+#nextPrev{
+background-color:#8A708D;
+width:700px;
+overflow:hidden;
+margin:50px auto;
+border:2px solid #fff;
+
+}
+#nextPrev img{
+border:2px solid #fff;
+}
+#nextPrev button:first-of-type{
+float:left;
+}
+#nextPrev button:last-of-type{
+float:right;
+}
+#nextPrev button{
+background-color:#8A708D;
+color:white;
+border:2px solid black;
+font-size:25px;
+font-weight:bold;
+width:70px;
+cursor:pointer;
+}
+
+#but{
+margin:0px auto;
+
+}
